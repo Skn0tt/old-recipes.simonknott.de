@@ -1,7 +1,7 @@
 {
   "private": true,
   "scripts": {
-    "install": "yum install ruby24-devel.x86_64 && gem install jekyll",
+    "install": "yum install ruby && gem install jekyll",
     "build": "jekyll build"
   }
 }
