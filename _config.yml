@@ -1,11 +1,11 @@
 # Site settings
 title: Chowdown
-email: your-email@domain.com
-description: The plain text recipe database for hackers
+email: info@simonknott.de
+description: My recipes
 baseurl: ""
 destination: public
-twitter_username: clarklab
-github_username:  clarklab
+twitter_username: skn0tt
+github_username: skn0tt
 
 # Build settings
 markdown: kramdown
